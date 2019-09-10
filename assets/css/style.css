@@ -1,0 +1,49 @@
+header {
+    font-size: 20px;
+    text-align: center;
+    margin: 20px auto;
+    height: 50px;
+    width: 80%;
+    color: orange;
+    }
+    
+    p {
+    font-size: 20px;
+    text-align: center;
+    margin: 50px auto;
+    height: 50px;
+    width: 80%;
+    color: blue;
+    
+    }
+    .underscore {
+    border: 3px solid olivedrab;
+    font-size: 80px;
+    text-align: center;
+    margin: 20px auto;
+    height: 200px;
+    width: 100%
+    
+    }
+    
+    .correct{
+        border: 3px solid olivedrab;
+        font-size: 20px;
+        text-align: center;
+        margin: 15px auto;
+        height: 100px;
+        width: 80%
+        
+        }
+    
+    .wrongletters{
+        border: 3px solid olivedrab;
+        font-size: 20px;
+        text-align: center;
+        margin: 15px auto;
+        height: 100px;
+        width: 80%;
+    
+        }
+    
+    
