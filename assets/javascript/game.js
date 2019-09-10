@@ -8,7 +8,8 @@ console.log (letter)
 // Create variables for functions
 var chosenWord = "";
 var guessedLetters = [];
-var ansWordArr = [];
+var lettersInChosenWord = [];
+var numBlanks = [];
 var maxNumGuesses = 5;
 var numGuesses = 0;
 var numWins = 0;
